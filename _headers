@@ -1,0 +1,8 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: interest-cohort=(), browsing-topics=()
+  Content-Security-Policy: default-src 'self'; img-src 'self'; style-src 'self'; font-src 'self'; script-src 'none'; frame-ancestors 'none'; base-uri 'self'
+
+/assets/*
+  Cache-Control: public, max-age=86400
